@@ -21,18 +21,7 @@
 
 > Hello and Welcome to radi3402's Profile
 
-### 🏠 [Homepage](https://github.com/radi3402/radi3402)
-
-## Prerequisites
-
-- npm >=5.5.0
-- node >=9.3.0
-
-## Install
-
-
-## Usage
-
+### 🏠 [Homepage](https://github.com/radi3402/)
 
 ## Author
 
