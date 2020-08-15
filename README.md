@@ -14,12 +14,11 @@
   <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/github/license/radi3402/radi3402" />
   </a>
-  ![GitHub](https://img.shields.io/github/license/radi3402/radi3402)
   <a href="https://twitter.com/bobsmith" target="_blank">
     <img alt="Twitter: bobsmith" src="https://img.shields.io/twitter/follow/bobsmith.svg?style=social" />
   </a>
 </p>
-
+![GitHub](https://img.shields.io/github/license/radi3402/radi3402)
 > Hello and Welcome to radi3402's Profile
 
 ### 🏠 [Homepage](https://github.com/radi3402/)
