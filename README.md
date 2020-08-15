@@ -1,5 +1,22 @@
 ### Hi there 👋
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![Discord](https://img.shields.io/discord/177489118060609537?label=Discord&style=plastic)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/radi3402?style=social)
 
 <!--
