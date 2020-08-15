@@ -11,9 +11,7 @@
   <a href="https://github.com/kefranabg/readme-md-generator/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/radi3402/radi3402" />
-  </a>
+
   <a href="https://twitter.com/bobsmith" target="_blank">
     <img alt="Twitter: bobsmith" src="https://img.shields.io/twitter/follow/bobsmith.svg?style=social" />
   </a>
