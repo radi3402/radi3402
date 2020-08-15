@@ -18,10 +18,11 @@
     <img alt="Twitter: bobsmith" src="https://img.shields.io/twitter/follow/bobsmith.svg?style=social" />
   </a>
 </p>
-![GitHub](https://img.shields.io/github/license/radi3402/radi3402)
 > Hello and Welcome to radi3402's Profile
 
 ### 🏠 [Homepage](https://github.com/radi3402/)
+
+![GitHub](https://img.shields.io/github/license/radi3402/radi3402)
 
 ## Author
 
