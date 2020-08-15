@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://img.shields.io/reddit/user-karma/combined/radi3402?style=social
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/radi3402?style=social)
 
 <!--
 **radi3402/radi3402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
