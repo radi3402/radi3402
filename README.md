@@ -15,9 +15,11 @@
 
 
 
-[![GitHub stars](https://img.shields.io/github/stars/radi3402/radi3402?color=green)](https://github.com/radi3402/radi3402/stargazers)
 ![Discord](https://img.shields.io/discord/177489118060609537?label=Discord&style=plastic)
+
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/radi3402?style=social)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/radi3402?style=social)
 
 <!--
 **radi3402/radi3402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
