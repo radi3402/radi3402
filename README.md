@@ -15,7 +15,7 @@
 
 
 
-
+[![GitHub stars](https://img.shields.io/github/stars/radi3402/radi3402?color=green)](https://github.com/radi3402/radi3402/stargazers)
 ![Discord](https://img.shields.io/discord/177489118060609537?label=Discord&style=plastic)
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/radi3402?style=social)
 
