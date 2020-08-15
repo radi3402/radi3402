@@ -13,7 +13,7 @@
   </a>
 
   <a href="https://twitter.com/bobsmith" target="_blank">
-    <img alt="Twitter: bobsmith" src="https://img.shields.io/twitter/follow/bobsmith.svg?style=social" />
+    <img alt="Twitter: bobsmith" src="https://img.shields.io/twitter/follow/radi3402.svg?style=social" />
   </a>
 </p>
 > Hello and Welcome to radi3402's Profile
