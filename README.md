@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Twitter](https://img.shields.io/twitter/url?color=LightGreen&label=Email&logo=Gmail&style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fradi3402%2Fradi3402)
-
+[![Twitter](https://img.shields.io/twitter/url?color=LightGreen&label=Email&logo=Gmail&style=social&url=bobsmithusername66%40gmail.com)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fradi3402%2Fradi3402)
 
 
 <!--
