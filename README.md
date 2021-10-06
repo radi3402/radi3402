@@ -24,7 +24,7 @@
 
 👤 **Bob Smith**
 
-* Website: 	[Website WIP](https://bobsmithusername66.wixsite.com/bobsmith)
+* Website: 	[Website WIP (placeholder)](https://bobsmithusername66.wixsite.com/bobsmith)
 * Twitter: [@radi3402](https://twitter.com/radi3402)
 * GitHub: [@radi3402](https://github.com/radi3402)
 
